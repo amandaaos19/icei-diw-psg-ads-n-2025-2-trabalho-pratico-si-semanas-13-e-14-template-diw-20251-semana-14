@@ -12,7 +12,7 @@ Sugerimos o uso das seguintes ferramentas acessíveis: [FullCalendar](https://fu
 - Nome:
 - Matricula:
 - Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Breve descrição sobre seu projeto: teste
 
 **Print da tela com a implementação**
 
